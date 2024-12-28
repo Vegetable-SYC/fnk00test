@@ -1,5 +1,0 @@
-一键生成一个新模板的脚本由3个py脚本组成
-
-1、复制fnk_templete到本文件夹并改名为fnk_00xx(copy_file.py)
-2、从指定目录获取word文档的一级标题名字，并放在heading.txt中(get_file.py)
-3、将一级标题作为文件名在img中建立同名文件夹，在code下建立同名rst文件(create.py)
