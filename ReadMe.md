@@ -28,6 +28,6 @@ In general, we will reply to you within one working day.
 
 
 
-## <img src="readme\Freenove.png" alt="support" width='5%' align="left"/>**Freenove Official Website**
+## <img src="readme\freenove.png" alt="freenove" width='5%' align="left"/>**Freenove Official Website**
 
 Freenove Official Website URL: [Freenove](https://freenove.com/)
