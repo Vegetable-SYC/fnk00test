@@ -1,0 +1,371 @@
+FNK0001, Freenove Starter Kit
+https://github.com/Freenove/Freenove_Starter_Kit
+https://github.com/Freenove/Freenove_Starter_Kit/archive/master.zip
+
+FNK0002, Freenove Modular Starter Kit
+https://github.com/Freenove/Freenove_Modular_Starter_Kit
+https://github.com/Freenove/Freenove_Modular_Starter_Kit/archive/master.zip
+
+FNK0003, Freenove Three-wheeled Smart Car Kit
+https://github.com/Freenove/Freenove_Three-wheeled_Smart_Car_Kit
+https://github.com/Freenove/Freenove_Three-wheeled_Smart_Car_Kit/archive/master.zip
+
+FNK0004, Freenove Starter Kit without Control Board
+https://github.com/Freenove/Freenove_Starter_Kit
+https://github.com/Freenove/Freenove_Starter_Kit/archive/master.zip
+
+FNK0005, Freenove Super Starter Kit
+https://github.com/Freenove/Freenove_Super_Starter_Kit
+https://github.com/Freenove/Freenove_Super_Starter_Kit/archive/master.zip
+
+FNK0006, Freenove Super Starter Kit without Control Board
+https://github.com/Freenove/Freenove_Super_Starter_Kit
+https://github.com/Freenove/Freenove_Super_Starter_Kit/archive/master.zip
+
+FNK0007, Freenove Basic Starter Kit
+https://github.com/Freenove/Freenove_Basic_Starter_Kit
+https://github.com/Freenove/Freenove_Basic_Starter_Kit/archive/master.zip
+
+FNK0008, Freenove Basic Starter Kit without Control Board
+https://github.com/Freenove/Freenove_Basic_Starter_Kit
+https://github.com/Freenove/Freenove_Basic_Starter_Kit/archive/master.zip
+
+FNK0009, Freenove LCD1602 Starter Kit
+https://github.com/Freenove/Freenove_LCD1602_Starter_Kit
+https://github.com/Freenove/Freenove_LCD1602_Starter_Kit/archive/master.zip
+
+FNK0010, Freenove LCD1602 Starter Kit without Control Board
+https://github.com/Freenove/Freenove_LCD1602_Starter_Kit
+https://github.com/Freenove/Freenove_LCD1602_Starter_Kit/archive/master.zip
+
+FNK0011, Freenove Ultrasonic Starter Kit
+https://github.com/Freenove/Freenove_Ultrasonic_Starter_Kit
+https://github.com/Freenove/Freenove_Ultrasonic_Starter_Kit/archive/master.zip
+
+FNK0012, Freenove Ultrasonic Starter Kit without Control Board
+https://github.com/Freenove/Freenove_Ultrasonic_Starter_Kit
+https://github.com/Freenove/Freenove_Ultrasonic_Starter_Kit/archive/master.zip
+
+FNK0013, Freenove RFID Kit
+https://github.com/Freenove/Freenove_RFID_Kit
+https://github.com/Freenove/Freenove_RFID_Kit/archive/master.zip
+
+FNK0014, Freenove Modular Starter Kit without Control Board
+https://github.com/Freenove/Freenove_Modular_Starter_Kit
+https://github.com/Freenove/Freenove_Modular_Starter_Kit/archive/master.zip
+
+FNK0015, Freenove RFID Starter Kit
+https://github.com/Freenove/Freenove_RFID_Starter_Kit
+https://github.com/Freenove/Freenove_RFID_Starter_Kit/archive/master.zip
+
+FNK0016, Freenove RFID Starter Kit without Control Board
+https://github.com/Freenove/Freenove_RFID_Starter_Kit
+https://github.com/Freenove/Freenove_RFID_Starter_Kit/archive/master.zip
+
+FNK0017, Freenove Ultimate Starter Kit
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit/archive/master.zip
+
+FNK0018, Freenove Ultimate Starter Kit without Control Board
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit/archive/master.zip
+
+FNK0019, Freenove Super Starter Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0020, Freenove Ultimate Starter Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0021, Freenove Three-wheeled Smart Car Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Three-wheeled_Smart_Car_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Three-wheeled_Smart_Car_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0022, Freenove Basic Starter Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0023, Freenove LCD1602 Starter Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_LCD1602_Starter_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_LCD1602_Starter_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0024, Freenove Ultrasonic Starter Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Ultrasonic_Starter_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Ultrasonic_Starter_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0025, Freenove RFID Starter Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_RFID_Starter_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_RFID_Starter_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0026, Freenove Three-wheeled Smart Car Kit Enhanced
+https://github.com/Freenove/Freenove_Three-wheeled_Smart_Car_Kit
+https://github.com/Freenove/Freenove_Three-wheeled_Smart_Car_Kit/archive/master.zip
+
+FNK0027, Freenove Quadruped Robot Kit
+https://github.com/Freenove/Freenove_Quadruped_Robot_Kit
+https://github.com/Freenove/Freenove_Quadruped_Robot_Kit/archive/master.zip
+
+FNK0028, Freenove Remote Control Kit
+https://github.com/Freenove/Freenove_Remote_Control_Kit
+https://github.com/Freenove/Freenove_Remote_Control_Kit/archive/master.zip
+
+FNK0029, Freenove Hexapod Robot Kit
+https://github.com/Freenove/Freenove_Hexapod_Robot_Kit
+https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/archive/master.zip
+
+FNK0030, Freenove Quadruped Robot Kit
+https://github.com/Freenove/Freenove_Quadruped_Robot_Kit
+https://github.com/Freenove/Freenove_Quadruped_Robot_Kit/archive/master.zip
+
+FNK0031, Freenove Hexapod Robot Kit
+https://github.com/Freenove/Freenove_Hexapod_Robot_Kit
+https://github.com/Freenove/Freenove_Hexapod_Robot_Kit/archive/master.zip
+
+FNK0033, Freenove Bipedal Robot Kit for Raspberry Pi Pico (W)
+https://github.com/Freenove/Freenove_Bipedal_Robot_Kit_for_Raspberry_Pi_Pico
+https://github.com/Freenove/Freenove_Bipedal_Robot_Kit_for_Raspberry_Pi_Pico/archive/refs/heads/main.zip
+
+FNK0034, Freenove RFID Starter Kit V2.0
+https://github.com/Freenove/Freenove_RFID_Starter_Kit_V2.0
+https://github.com/Freenove/Freenove_RFID_Starter_Kit_V2.0/archive/master.zip
+
+FNK0035, Freenove RFID Starter Kit V2.0 without Control Board
+https://github.com/Freenove/Freenove_RFID_Starter_Kit_V2.0
+https://github.com/Freenove/Freenove_RFID_Starter_Kit_V2.0/archive/master.zip
+
+FNK0036, Freenove Robot Arm Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Robot_Arm_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Robot_Arm_Kit_for_Raspberry_Pi/archive/refs/heads/main.zip
+
+FNK0037, Freenove Micro:Rover
+https://github.com/Freenove/Freenove_Micro_Rover
+https://github.com/Freenove/Freenove_Micro_Rover/archive/master.zip
+
+FNK0038, Freenove Micro:Rover Kit without micro:bit
+https://github.com/Freenove/Freenove_Micro_Rover
+https://github.com/Freenove/Freenove_Micro_Rover/archive/master.zip
+
+FNK0039, Freenove Starter Kit for Raspberry Pi 4B
+https://github.com/Freenove/Freenove_Starter_kit_for_Raspberry_Pi_4B
+https://github.com/Freenove/Freenove_Starter_kit_for_Raspberry_Pi_4B/archive/master.zip
+
+FNK0040, Freenove Case Kit for Raspberry Pi 4B with Fan
+https://github.com/Freenove/Freenove_Starter_kit_for_Raspberry_Pi_4B
+https://github.com/Freenove/Freenove_Starter_kit_for_Raspberry_Pi_4B/archive/master.zip
+
+FNK0041, Freenove 4WD Car Kit
+https://github.com/Freenove/Freenove_4WD_Car_Kit
+https://github.com/Freenove/Freenove_4WD_Car_Kit/archive/master.zip
+
+FNK0042, Freenove Robot Ant Kit
+https://github.com/Freenove/Freenove_Robot_Ant_Kit
+https://github.com/Freenove/Freenove_Robot_Ant_Kit/archive/refs/heads/main.zip
+
+FNK0043, Freenove 4WD Smart Car Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_4WD_Smart_Car_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0045, Freenove Ultimate Starter Kit for micro:bit
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_microbit
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_microbit/archive/master.zip
+
+FNK0046, Freenove Super Starter Kit for ESP32
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP32
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP32/archive/refs/heads/main.zip
+
+FNK0047, Freenove Ultimate Starter Kit for ESP32
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32/archive/master.zip
+
+FNK0048, Freenove 18650 Battery and Charger Kit
+https://github.com/Freenove/Freenove_18650_Battery_and_Charger_Kit
+https://github.com/Freenove/Freenove_18650_Battery_and_Charger_Kit/archive/master.zip
+
+FNK0049, Freenove 14500 Battery and Charger Kit
+https://github.com/Freenove/Freenove_14500_Battery_and_Charger_Kit
+https://github.com/Freenove/Freenove_14500_Battery_and_Charger_Kit/archive/master.zip
+
+FNK0050, Freenove Robot Dog Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Robot_Dog_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Robot_Dog_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0052, Freenove Big Hexapod Robot Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Big_Hexapod_Robot_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Big_Hexapod_Robot_Kit_for_Raspberry_Pi/archive/master.zip
+
+FNK0053, Freenove 4WD Car Kit for ESP32
+https://github.com/Freenove/Freenove_4WD_Car_Kit_for_ESP32
+https://github.com/Freenove/Freenove_4WD_Car_Kit_for_ESP32/archive/master.zip
+
+FNK0054, Freenove Projects Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Projects_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Projects_Kit_for_Raspberry_Pi/archive/refs/heads/main.zip
+
+FNK0055, Freenove Touchscreen Monitor
+https://github.com/Freenove/Freenove_Touchscreen_Monitor
+https://github.com/Freenove/Freenove_Touchscreen_Monitor/archive/refs/heads/main.zip
+
+FNK0056, Freenove Camera Module for Raspberry Pi
+https://github.com/Freenove/Freenove_Camera_Module_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Camera_Module_for_Raspberry_Pi/archive/master.zip
+
+FNK0058, Freenove Ultimate Starter Kit for Raspberry Pi Pico
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico/archive/refs/heads/master.zip
+
+FNK0059, Freenove Projects Kit
+https://github.com/Freenove/Freenove_Projects_Kit
+https://github.com/Freenove/Freenove_Projects_Kit/archive/refs/heads/refs.zip
+
+FNK0060, Freenove ESP32-WROVER Board
+https://github.com/Freenove/Freenove_ESP32_WROVER_Board
+https://github.com/Freenove/Freenove_ESP32_WROVER_Board/archive/refs/heads/main.zip
+
+FNK0061, Freenove Basic Starter Kit for ESP32
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32/archive/refs/heads/main.zip
+
+FNK0062, Freenove Robot Dog Kit for ESP32
+https://github.com/Freenove/Freenove_Robot_Dog_Kit_for_ESP32
+https://github.com/Freenove/Freenove_Robot_Dog_Kit_for_ESP32/archive/refs/heads/main.zip
+
+FNK0063, Freenove Super Starter Kit for Raspberry Pi Pico
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Raspberry_Pi_Pico
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Raspberry_Pi_Pico/archive/refs/heads/main.zip
+
+FNK0064, Freenove Basic Starter Kit for Raspberry Pi Pico
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_Raspberry_Pi_Pico
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_Raspberry_Pi_Pico/archive/refs/heads/main.zip
+
+FNK0065, Freenove Raspberry Pi Pico Board
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico/archive/refs/heads/master.zip
+
+FNK0066, Freenove Complete Starter Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Complete_Starter_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Complete_Starter_Kit_for_Raspberry_Pi/archive/refs/heads/main.zip
+
+FNK0067, Freenove Control Board
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit/archive/master.zip
+
+FNK0070, Freenove BBC micro:bit Board
+https://github.com/Freenove/Freenove_microbit_Board
+https://github.com/Freenove/Freenove_microbit_Board/archive/refs/heads/main.zip
+
+FNK0071, Freenove Super Starter Kit for micro:bit
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_microbit
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_microbit/archive/refs/heads/main.zip
+
+FNK0072, Freenove Basic Starter Kit for micro:bit
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_microbit
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_microbit/archive/refs/heads/main.zip
+
+FNK0073, Freenove Ultimate Starter Kit for ESP8266
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP8266
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP8266/archive/refs/heads/main.zip
+
+FNK0074, Freenove Super Starter Kit for ESP8266
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP8266
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP8266/archive/refs/heads/main.zip
+
+FNK0075, Freenove Basic Starter Kit for ESP8266
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP8266
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP8266/archive/refs/heads/main.zip
+
+FNK0076, Freenove ESP8266 Board
+https://github.com/Freenove/Freenove_ESP8266_Board
+https://github.com/Freenove/Freenove_ESP8266_Board/archive/refs/heads/main.zip
+
+FNK0077, Freenove Tank Robot Kit for Raspberry Pi
+https://github.com/Freenove/Freenove_Tank_Robot_Kit_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Tank_Robot_Kit_for_Raspberry_Pi/archive/refs/heads/main.zip
+
+FNK0078, Freenove Touchscreen Monitor for Raspberry Pi
+https://github.com/Freenove/Freenove_Touchscreen_Monitor_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Touchscreen_Monitor_for_Raspberry_Pi/archive/refs/heads/main.zip
+
+FNK0079, Freenove LCD Module
+https://github.com/Freenove/Freenove_LCD_Module
+https://github.com/Freenove/Freenove_LCD_Module/archive/refs/heads/main.zip
+
+FNK0080, Freenove Breakout Board for Raspberry Pi
+https://github.com/Freenove/Freenove_Breakout_Board_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_Breakout_Board_for_Raspberry_Pi/archive/refs/heads/main.zip
+
+FNK0081, Freenove Breakout Board for Raspberry Pi Pico
+https://github.com/Freenove/Freenove_Breakout_Board_for_Raspberry_Pi_Pico
+https://github.com/Freenove/Freenove_Breakout_Board_for_Raspberry_Pi_Pico/archive/refs/heads/master.zip
+
+FNK0082, Freenove Ultimate Starter Kit for ESP32-S3
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip
+
+FNK0083, Freenove Super Starter Kit for ESP32-S3
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP32_S3
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip
+
+FNK0084, Freenove Basic Starter Kit for ESP32-S3
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32_S3
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32_S3/archive/refs/heads/main.zip
+
+FNK0085, Freenove ESP32-S3-WROOM Board
+https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board
+https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board/archive/refs/heads/main.zip
+
+FNK0086, Freenove Development Kit for ESP32-S3
+https://github.com/Freenove/Freenove_Development_Kit_for_ESP32_S3
+https://github.com/Freenove/Freenove_Development_Kit_for_ESP32_S3/archive/refs/heads/main.zip
+
+FNK0087, Freenove Spot Welder
+https://github.com/Freenove/Freenove_Spot_Welder
+https://github.com/Freenove/Freenove_Spot_Welder/archive/refs/heads/main.zip
+
+FNK0088, Freenove Nickel Strip for Spot Welder
+https://github.com/Freenove/Freenove_Spot_Welder
+https://github.com/Freenove/Freenove_Spot_Welder/archive/refs/heads/main.zip
+
+FNK0089, Freenove 4WD Car Kit for Raspberry Pi Pico (W)
+https://github.com/Freenove/Freenove_4WD_Car_Kit_for_Raspberry_Pi_Pico
+https://github.com/Freenove/Freenove_4WD_Car_Kit_for_Raspberry_Pi_Pico/archive/refs/heads/main.zip
+
+FNK0090, Freenove ESP32-WROOM Board
+https://github.com/Freenove/Freenove_ESP32_WROOM_Board
+https://github.com/Freenove/Freenove_ESP32_WROOM_Board/archive/refs/heads/main.zip
+
+FNK0091, Freenove Breakout Board for ESP32
+https://github.com/Freenove/Freenove_Breakout_Board_for_ESP32
+https://github.com/Freenove/Freenove_Breakout_Board_for_ESP32/archive/refs/heads/main.zip
+
+FNK0092, Freenove Complete Starter Kit for Control Board V5
+https://github.com/Freenove/Freenove_Complete_Starter_Kit_for_Control_Board_V5
+https://github.com/Freenove/Freenove_Complete_Starter_Kit_for_Control_Board_V5/archive/refs/heads/main.zip
+
+FNK0093, Freenove Ultimate Starter Kit for Control Board V5
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Control_Board_V5
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_Control_Board_V5/archive/refs/heads/main.zip
+
+FNK0094, Freenove Super Starter Kit for Control Board V5
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Control_Board_V5
+https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Control_Board_V5/archive/refs/heads/main.zip
+
+FNK0095, Freenove Basic Starter Kit for Control Board V5
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_Control_Board_V5
+https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_Control_Board_V5/archive/refs/heads/main.zip
+
+FNK0096, Freenove Control Board V5
+https://github.com/Freenove/Freenove_Control_Board_V5
+https://github.com/Freenove/Freenove_Control_Board_V5/archive/refs/heads/main.zip
+
+FNK0097, Freenove Omni Wheel Car Kit for Raspberry Pi Pico
+https://github.com/Freenove/Freenove_Omni_Wheel_Car_Kit_for_Raspberry_Pi_Pico
+https://github.com/Freenove/Freenove_Omni_Wheel_Car_Kit_for_Raspberry_Pi_Pico/archive/refs/heads/main.zip
+
+FNK0098, Freenove M.2 NVMe Adapter for Raspberry Pi
+https://github.com/Freenove/Freenove_M.2_NVMe_Adapter_for_Raspberry_Pi
+https://github.com/Freenove/Freenove_M.2_NVMe_Adapter_for_Raspberry_Pi/archive/refs/heads/main.zip
+
+FNK0099, Freenove ESP32-S3-WROOM Board Lite
+https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board_Lite
+https://github.com/Freenove/Freenove_ESP32_S3_WROOM_Board_Lite/archive/refs/heads/main.zip
