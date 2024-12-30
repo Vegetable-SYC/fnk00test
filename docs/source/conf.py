@@ -30,6 +30,7 @@ extensions = [
     'sphinx.ext.doctest',
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
+    "sphinx.ext.extlinks",
 ]
 
 source_suffix = {
@@ -94,8 +95,8 @@ extlinks = {
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 
-intersphinx_mapping = {
-    "rpi-starter-kit": ("https://freenove-docs2.readthedocs.io/projects/fnk0020/en/latest/", None),
+extlinks = {
+    'Freenove': ('https://docs.freenove.com/projects/%s/en/latest/%s/%s.html', 'Freenove %s'),
 }
 intersphinx_disabled_reftypes = ["*"]
 

@@ -143,7 +143,7 @@ tutorial
       - Freenove Ultimate Starter Kit
       - `View <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit>`_	
       - `Download <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit/archive/master.zip>`_
-      - Online
+      - :Freenove:`fnk0017`
 
     * - FNK0018	
       - Freenove Ultimate Starter Kit
