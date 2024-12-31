@@ -1,6 +1,6 @@
 
 
-:external:py:class:`zipfile.ZipFile`
+:external:`zipfile.ZipFile <fnk0017/en/latest/fnk0017/fnk0017.html>`
 
 Starter kits
 ----------------------------------------------------------------
