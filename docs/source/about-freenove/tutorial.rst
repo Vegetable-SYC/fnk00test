@@ -143,7 +143,7 @@ tutorial
       - Freenove Ultimate Starter Kit
       - `View <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit>`_	
       - `Download <https://github.com/Freenove/Freenove_Ultimate_Starter_Kit/archive/master.zip>`_
-      - :ref:`Online <rpi-starter-kit:fnk0017/fnk0017.html>`
+      - :doc:`Online <rpi-starter-kit:fnk0017/fnk0017.html>`
 
     * - FNK0018	
       - Freenove Ultimate Starter Kit
