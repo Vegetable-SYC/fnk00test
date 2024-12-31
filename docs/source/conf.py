@@ -30,7 +30,6 @@ extensions = [
     'sphinx.ext.doctest',
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
-    "sphinx.ext.extlinks",
 ]
 
 source_suffix = {
@@ -77,12 +76,10 @@ gettext_uuid = True  # optional.
 
 rst_prolog = """
 .. include:: <s5defs.txt>
-.. include:: ../_static/style/custom-style.txt
 """
 
 html_css_files = [
     "css/color-roles.css",
-    "css/custom.css"
 ]
 
 extlinks = {
@@ -95,11 +92,13 @@ extlinks = {
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 
-intersphinx_mapping = {"rpi-starter-kit": ("https://docs.freenove.com/projects/fnk0017/en/latest/", None)}
-
+intersphinx_mapping = {
+    "rpi-starter-kit": ("https://docs.freenove.com/projects/", None),
+}
 intersphinx_disabled_reftypes = ["*"]
 
 
 def setup(app):
 
     app.add_css_file("css/custom.css")
+    app.add_css_file("css/navigationStyle.css")
