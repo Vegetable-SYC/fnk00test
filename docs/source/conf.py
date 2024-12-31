@@ -95,9 +95,8 @@ extlinks = {
 html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 
-extlinks = {
-    'Freenove': ('https://docs.freenove.com/projects/%s/en/latest/%s/%s.html', 'Freenove %s'),
-}
+intersphinx_mapping = {"Freenove": ("https://docs.freenove.com/projects/", None)}
+
 intersphinx_disabled_reftypes = ["*"]
 
 
