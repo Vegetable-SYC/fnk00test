@@ -1,6 +1,6 @@
 
 
-:doc:`zipfile.ZipFile <fnk0017/en/latest/fnk0017/fnk0017.html>`
+:external:doc:`freenove <freenove:fnk0017/en/latest/fnk0017/fnk0017.html>`
 
 Starter kits
 ----------------------------------------------------------------
