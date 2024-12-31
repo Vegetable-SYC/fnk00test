@@ -2,6 +2,8 @@
 
 :external:doc:`freenove <freenove:fnk0017/en/latest/fnk0017/fnk0017.html>`
 
+:ref:`comparison manual <python:comparisons>`
+
 Starter kits
 ----------------------------------------------------------------
 
